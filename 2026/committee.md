@@ -34,7 +34,7 @@ Jan Heuer, Universität Potsdam, Germany \
 Michael Morak, Alpen-Adria-Universität Klagenfurt, Austria \
 Amadé Nemes, Universität Potsdam, Germany \
 Patrick Rodler, Alpen-Adria-Universität Klagenfurt, Austria \
-JAvier Romero, Universität Potsdam, Germany \
+Javier Romero, Universität Potsdam, Germany \
 Nicolas Rühling, Universität Potsdam, Germany \
 Davide Soldà, Technische Universität Wien, Austria \
 Klaus Strauch, Universität Potsdam, Germany \
