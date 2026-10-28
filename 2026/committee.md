@@ -43,4 +43,4 @@ Alessandro Tremamuno, Alpen-Adria-Universität Klagenfurt, Austria \
 Kaan Unalan, Technische Universität Wien, Austria \
 Jasmin Wachter, Alpen-Adria-Universität Klagenfurt, Austria \
 Gianluca Zavan, Alpen-Adria-Universität Klagenfurt, Austria \
-Francesco Zuccato, Alpen-Adria-Universität Klagenfurt, Austria \
+Francesco Zuccato, Alpen-Adria-Universität Klagenfurt, Austria
