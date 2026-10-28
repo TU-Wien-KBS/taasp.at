@@ -23,5 +23,24 @@ Nicolas Rühling, Universität Potsdam, Germany
 
 
 ### Program Committee
-TBD
-
+Ashraf Akl, Alpen-Adria-Universität Klagenfurt, Austria \
+Alexandedr Beiser, Technische Universität Wien, Austria \
+Adrian Chroust, Technische Universität Wien, Austria \
+Wolfgang Faber, Alpen-Adria-Universität Klagenfurt, Austria \
+Martin Gebser, Alpen-Adria-Universität Klagenfurt, Austria \
+Tobias Geibinger, Technische Universität Wien, Austria \
+Susana Hahn, Universität Potsdam, Germany \
+Jan Heuer, Universität Potsdam, Germany \
+Michael Morak, Alpen-Adria-Universität Klagenfurt, Austria \
+Amadé Nemes, Universität Potsdam, Germany \
+Patrick Rodler, Alpen-Adria-Universität Klagenfurt, Austria \
+JAvier Romero, Universität Potsdam, Germany \
+Nicolas Rühling, Universität Potsdam, Germany \
+Davide Soldà, Technische Universität Wien, Austria \
+Klaus Strauch, Universität Potsdam, Germany \
+Alice Tarzariol, Alpen-Adria-Universität Klagenfurt, Austria \
+Alessandro Tremamuno, Alpen-Adria-Universität Klagenfurt, Austria \
+Kaan Unalan, Technische Universität Wien, Austria \
+Jasmin Wachter, Alpen-Adria-Universität Klagenfurt, Austria \
+Gianluca Zavan, Alpen-Adria-Universität Klagenfurt, Austria \
+Francesco Zuccato, Alpen-Adria-Universität Klagenfurt, Austria \
