@@ -10,7 +10,7 @@ menu: false
 
 **TAASP 2026 will be held on November 2-3, 2026 at Universität Potsdam, Germany.**
 
-The workshop will be followed by an Industrial Day on November 4.
+The workshop will be followed by an [Industrial Day](https://workshops.potassco.org//2026/industrial-day) on November 4.
 
 _TAASP 2026 is the ninth workshop of its type, following [TAASP 2025](http://taasp.at/2025/), [TAASP 2024](http://taasp.at/2024/), [TAASP 2023](http://www.kr.tuwien.ac.at/events/taasp23/), [TAASP 2022](http://www.kr.tuwien.ac.at/events/taasp22/), [TAASP 2020](http://www.kr.tuwien.ac.at/events/taasp20/), [TAASP 2019](http://www.kr.tuwien.ac.at/events/taasp19/), [TAASP 2018](http://www.kr.tuwien.ac.at/events/taasp18/), [TAASP 2016](http://www.kr.tuwien.ac.at/events/taasp16/)._
 
@@ -24,4 +24,6 @@ Answer set programming (ASP) is a widely used declarative programming paradigm b
 
 #### Sponsors
 
-<a href="https://www.potassco.com/">![Logo Potassco](/assets/images/potassco_logo.jpg){: width="150" }</a> 
+<a href="https://www.potassco.com/">![Logo Potassco](/assets/images/potassco_logo.jpg){: width="150" }</a>   &emsp;&emsp;
+<a href="https://www.uni-potsdam.de/de/">![Logo of the Uni Potsdam](/assets/images/potsdam_logo.jpg){: width="100" }</a>   &emsp;&emsp;
+<a href="https://www.up-transfer.de">![Logo of up transfer GmbH](/assets/images/upt-logo.png){: width="150" }</a>
