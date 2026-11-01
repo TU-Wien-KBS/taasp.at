@@ -6,6 +6,8 @@ menu: true
 
 Long paper presentations are scheduled for 20 minutes and short paper presentations for 15 minutes, including time for QA and setup.
 
+Preliminary versions of the accepted papers can be found in [Google Drive](https://drive.google.com/drive/folders/14IoldIZnhxBrjLPnMKhsw68gv5DEKEsb)
+
 <br/>
 
 #### Monday, Nov 2, 2026
