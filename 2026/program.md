@@ -10,6 +10,8 @@ Long paper presentations are scheduled for 20 minutes and short paper presentati
 
 #### Monday, Nov 2, 2026
 
+Room: 0.08, right across the entrance of the building (on the ground floor)
+
 <br/>
 
 ##### 09:30-10:00 &emsp; Welcome
@@ -102,6 +104,8 @@ _Đorđe Marković, Alice Tarzariol, Gianluca Zavan_
 <br/>
 
 #### Tuesday, Nov 3, 2026
+
+Room: 0.08, right across the entrance of the building (on the ground floor)
 
 <br/>
 

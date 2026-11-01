@@ -12,7 +12,7 @@ Institut für Informatik \
 An der Bahn 2 \
 14476 Potsdam 
 
-Detailed room information will be provided closer to the workshop date.
+Room: 0.08, right across the entrance of the building (on the ground floor)
 
 ### Lodging
 
