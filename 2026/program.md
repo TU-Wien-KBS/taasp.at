@@ -90,7 +90,7 @@ _Christoph Wernhard_
 ##### 16:05-16:50 &emsp; Technical Session: Semantics and Equivalence
 
 Bound-Founded Semantics for Answer Set Programming with Difference Constraints (Extended Abstract) \
-_Pedro Cabalar, Jorge Fandinno, Nicolas Rühling, Torsten Schaub_
+_Pedro Cabalar, Jorge Fandinno, Nicolas Rühling, Torsten Schaub, Sebastian Schellhorn, Philipp Wanko_
 
 Learning Meta-Programs for Uniform ASP Abstraction: Work in Progress \
 _Adrian Chroust, Thomas Eiter, Zeynep G. Saribatur_
