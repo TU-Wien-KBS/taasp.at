@@ -144,7 +144,7 @@ Generating Streamliners for ASP Optimization Problems with Large Language Models
 _Marco Duca, Ilaria Frandina, Francesco Ricca_
 
 Neuro-Symbolic Operational Technology Threat Modeling with MulVAL and (LLM)ASP \
-_Xhulia Palaj, Jasmin Wachter_
+_Xhulia Palaj, Jasmin Wachter, Marino, Miculan, Gabriele Tam_
 
 <br/>
 
